@@ -81,28 +81,7 @@ border-style:hidden;
 border-radius:240px;
 
 }
-.games{
-  height: 220px;
-  width: 230px;
-  margin-top: 50px;
-  border-style:hidden;
-  border-radius:240px;
-}
-.tools {
-  height: 220px;
-  width: 230px;
-  margin-top: 50px;
-  border-style:hidden;
-  border-radius:240px;
-}
-.stories{
-  height: 220px;
-  width: 230px;
-  margin-top: 50px;
-  border-style:hidden;
-  border-radius:240px;
-}
-.camera{
+.hela{
   height: 220px;
   width: 230px;
   margin-top: 50px;
